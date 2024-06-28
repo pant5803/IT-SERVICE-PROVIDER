@@ -1,0 +1,50 @@
+/* src/components/AllServices.module.css */
+.AllServices {
+  margin-left: 250px;
+  padding: 20px;
+  color: #fff;
+  background-color: #162447;
+  height: auto;
+}
+
+.AllServices h1 {
+  margin-bottom: 1rem;
+}
+
+.AllServices p {
+  font-size: 1.2rem;
+}
+
+.container {
+  background-color: #1b1b2f;
+  color: #eaeaea;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.header {
+  font-size: 2rem;
+  color: #00aaff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 20px;
+  transition: transform 0.2s;
+  min-height: 15rem;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.icon {
+  color: #00aaff;
+  font-size: xx-large;
+  margin-right: 10px;
+}

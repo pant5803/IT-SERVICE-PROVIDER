@@ -1,0 +1,43 @@
+.container {
+  margin-top: 50px;
+  padding: 20px;
+  border: 1px solid #333; /* Blackish border */
+  border-radius: 8px;
+  background-color: #1a1a1a; /* Dark background color */
+  color: #e6e6e6; /* Light text color for readability */
+  /* border: 3px solid green; */
+}
+
+.heading {
+  color: #007bff; /* Blue text for the heading */
+  margin-bottom: 20px;
+  transition: color 0.3s ease;
+}
+
+.heading:hover {
+  color: #0056b3; /* Darker blue on hover */
+}
+
+.paragraph {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.listGroupItem {
+  background-color: #1a1a1a; /* Match the dark background */
+  border: 1px solid #333; /* Blackish border */
+  color: #e6e6e6; /* Light text color */
+}
+
+.listGroupItem:hover {
+  background-color: #333; /* Slightly lighter on hover */
+  color: #007bff; /* Blue text on hover */
+}
+.outer {
+  display: flex;
+  /* border: 3px solid white; */
+}
+.left {
+  width: 40%;
+  /* border: 3px solid red; */
+}

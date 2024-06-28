@@ -1,0 +1,58 @@
+/* src/components/Dashboard.module.css */
+.dashboard {
+  margin-left: 250px;
+  padding: 20px;
+  color: #fff;
+  background-color: #162447;
+  height: auto;
+}
+
+.dashboard h1 {
+  margin-bottom: 1rem;
+}
+
+.dashboard p {
+  font-size: 1.2rem;
+}
+
+/* ---------------------------------------------- */
+
+.container {
+  color: #eaeaea;
+  border-radius: 10px;
+
+  margin-left: 250px;
+  padding: 40px;
+  height: auto;
+}
+
+.header {
+  font-size: 2rem;
+  color: #00aaff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.paragraph {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.card {
+  /* background-color: #162447; */
+  border: none;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 20px;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.icon {
+  color: #00aaff;
+  margin-right: 10px;
+}

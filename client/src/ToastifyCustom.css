@@ -1,0 +1,29 @@
+/* ToastifyCustom.css */
+
+/* Error toast custom styles */
+.toast-error {
+  background-color: red !important;
+  color: white !important;
+}
+
+.toast-error .Toastify__toast-icon svg {
+  fill: white !important;
+}
+
+.toast-error .Toastify__progress-bar {
+  background: white !important;
+}
+
+/* Success toast custom styles */
+.toast-success {
+  background-color: green !important;
+  color: white !important;
+}
+
+.toast-success .Toastify__toast-icon svg {
+  fill: white !important;
+}
+
+.toast-success .Toastify__progress-bar {
+  background: white !important;
+}

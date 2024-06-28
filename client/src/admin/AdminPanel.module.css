@@ -1,0 +1,12 @@
+/* src/App.module.css */
+body {
+  background-color: #162447;
+  color: #fff;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}

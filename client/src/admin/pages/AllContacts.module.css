@@ -1,0 +1,50 @@
+/* src/components/AllContacts.module.css */
+.AllContacts {
+  margin-left: 50px;
+  padding: 20px;
+  color: #fff;
+  background-color: #162447;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+.AllContacts h1 {
+  margin-bottom: 1rem;
+}
+
+.AllContacts p {
+  font-size: 1.2rem;
+}
+.userTableContainer {
+  margin-left: 250px;
+  padding: 20px;
+  color: #fff;
+}
+
+.heading {
+  margin-bottom: 1rem;
+}
+
+.table {
+  background-color: #162447;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #0f3460;
+}
+
+.icon {
+  cursor: pointer;
+  margin-right: 10px;
+  color: #fff;
+}
+
+.icon:hover {
+  color: #007bff;
+}
+
+.table tbody tr td {
+  overflow-x: auto;
+  overflow-y: auto;
+}

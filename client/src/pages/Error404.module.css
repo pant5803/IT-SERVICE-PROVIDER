@@ -1,0 +1,43 @@
+.container {
+  text-align: center;
+  color: #e6e6e6;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.heading {
+  font-size: 6rem;
+  color: #007bff;
+  transition: color 0.3s ease;
+}
+
+.heading:hover {
+  color: #0056b3; /* Darker blue on hover */
+}
+
+.message {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.homeLink {
+  color: #007bff;
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.homeLink:hover {
+  color: #0056b3; /* Darker blue on hover */
+}
+
+.icon {
+  font-size: 4rem;
+  margin-bottom: 20px;
+  color: #007bff;
+  transition: color 0.3s ease;
+}
+
+.icon:hover {
+  color: #0056b3; /* Darker blue on hover */
+}
